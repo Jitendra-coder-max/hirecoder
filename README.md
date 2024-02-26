@@ -1,10 +1,10 @@
-#### Complete App
 
-[Jobify](https://jobify.live/)
+
+
 
 #### Create React APP
 
-[VITE](https://vitejs.dev/guide/)
+
 
 ```sh
 npm create vite@latest projectName -- --template react
